@@ -409,13 +409,12 @@ while len(free):
 displayboard(board)
 if victory=='you':
     print('you won')
-    print("if you get mind make we play again")
+    print ('i challenge you to another game')
 elif victory=='me':
-    print('i won!!, hahaha, in your face sucker!')
-    print("na computer of 26000k dey win you for ordinary tic tac toe,")
-    print("you no dey shame")
+    print('i won!!, hahaha !')
+    print("today a computer has another win over a human")
+   
 else:
     print('tie')
     time.sleep(2)
-    print("see this one na computer you follow draw you come dey happy, you're a mumu man") 
-    print("if you get mind, make we play again, ")
+    
